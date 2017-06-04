@@ -1,5 +1,4 @@
-
-/package com.qf.day22;
+package com.qf.day22;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
